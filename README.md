@@ -9,3 +9,8 @@ if you want to use your own model instead and have a web user interface to inter
 To get the weights file you must go to 
 
 https://drive.google.com/open?id=1DWyiRbWa4Ji_dbxnJDnI0hDT30YOsPIr
+
+
+The road detection can be pulled from dockerhub with docker pull rspmodels/darknetroads
+
+The coco dataset example can be pulled using docker pull rspmodels;darknetcoco
