@@ -13,4 +13,4 @@ https://drive.google.com/open?id=1DWyiRbWa4Ji_dbxnJDnI0hDT30YOsPIr
 
 The road detection can be pulled from dockerhub with docker pull rspmodels/darknetroads
 
-The coco dataset example can be pulled using docker pull rspmodels;darknetcoco
+The coco dataset example can be pulled using docker pull rspmodels/darknetcoco
